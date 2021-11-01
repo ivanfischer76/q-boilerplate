@@ -1,0 +1,30 @@
+
+
+
+export default {
+  isoName: 'es',
+  nativeName: 'Español',
+  acceptConditions: 'Acepto las condiciones y términos de uso',
+  alert: 'Alerta',
+  confirm: 'Confirmación',
+  email: 'Corre electrónico',
+  essentialLinks: 'Enlaces esenciales',
+  error404: 'Ups! Nada por aquí ...',
+  failed: 'Acción fallida',
+  fieldRequired: 'Este campo es obligatorio',
+  goHome: 'Volver a casa',
+  language: 'Idioma',
+  linkListCaption1: 'Alertas, dialogos y confirmaciones',
+  linkListCaption2: 'Formularios, entradas, validaciones ...',
+  linkListCaption3: 'Dcumentación quasar.dev',
+  linkListTitle1: 'Diálogos',
+  linkListTitle2: 'Formularios',
+  linkListTitle3: 'Enlace externo',
+  password: 'Contraseña',
+  passwordRepeat: ' Repetir contraseña',
+  prompt: 'Entrada',
+  reset: 'Reiniciar',
+  submit: 'Enviar',
+  success: 'La acción fue exitosa',
+  title: 'Aplicación Quasar',
+}
